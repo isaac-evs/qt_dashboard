@@ -3,7 +3,8 @@
 A minimalist and user-friendly system monitoring dashboard built with Qt6 and QML.
 
 ## Screenshot
-[screenshot.png]
+![Dashboard](screenshot.png)
+
 
 ## Features
 
